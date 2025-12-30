@@ -1,3 +1,5 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h2>💻 Mazahrul Islam Akash | MERN Stack Developer since 2025</h2>
 # 💫 About Me:
 💻 MERN Stack Developer focused on building modern and responsive web applications<br>⚛️ Strong in React, Node.js, Express, and MongoDB<br>🚀 Passionate about clean code, performance, and continuous learning
 
